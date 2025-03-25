@@ -1,0 +1,12 @@
+{
+    "pranav": {
+        "name": "Pranav",
+        "lives": 3,
+        "level": 1
+    },
+    "abc": {
+        "name": "abc",
+        "lives": 2,
+        "level": 6
+    }
+}

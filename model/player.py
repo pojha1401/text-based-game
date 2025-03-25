@@ -21,3 +21,5 @@ def update_player_lives(player: dict[str, str | int], lives: int) -> None:
 def update_player_level(player: dict[str, str | int], level: int) -> None:
     """Updates the player's level."""
     player["level"] = level
+
+# hello this is sample commit

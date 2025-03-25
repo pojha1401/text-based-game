@@ -28,7 +28,7 @@ def celestial_tower(player):
     "A B C\n"
     "D E F\n"
     "G H I\n"
-    "Rotate the grid 90 degrees clockwise and enter the new arrangement (e.g., G D A H E B I F C):"
+    "Rotate the grid 90 degrees clockwise and enter the new arrangement (e.g., A B C D E F G H I):"
     )
     if not solve_puzzle(puzzle_prompt, "G D A H E B I F C", player):
         return

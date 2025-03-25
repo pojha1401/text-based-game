@@ -47,7 +47,7 @@ def start_scenario(player):
     if scenario:
         scenario(player)
     else:
-        print(f"🎉 {get_player_name(player)}, you've reached the Final Stage! To be continued...")
+        print(f" {get_player_name(player)}, you've reached the Final Stage! To be continued...")
 
 def start_decision(player):
     """Initial decision: Choose between Enchanted Forest and Lost Ruins."""
